@@ -1,0 +1,1387 @@
+car_owner;propert_owner;children;type_income;education;marital_status;housing_type;employed_days;mobile_phone;work_phone;phone;email_id;family_members;target
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;1
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-586;1;1;1;0;2;1
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-586;1;1;1;0;2;1
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-586;1;1;1;0;2;1
+Y;N;0;Pensioner;Higher education;Married;House / apartment;-586;1;1;1;0;2;1
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-678;1;0;1;1;3;1
+Y;Y;1;Pensioner;Secondary / secondary special;Married;House / apartment;-678;1;0;1;1;3;1
+Y;Y;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-678;1;0;1;1;1;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1002;1;1;1;0;2;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1002;1;1;1;0;2;1
+N;N;1;Pensioner;Higher education;Married;With parents;-913;1;0;0;1;3;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-248;1;0;0;0;2;1
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-248;1;0;0;0;2;1
+N;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-2470;1;0;0;0;1;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;-1644;1;0;0;1;2;1
+N;N;0;Working;Higher education;Single / not married;House / apartment;-4327;1;0;0;0;1;1
+Y;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-1674;1;0;0;1;2;1
+N;Y;0;Commercial associate;Higher education;Civil marriage;House / apartment;-1086;1;0;0;0;2;1
+N;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-925;1;0;0;0;4;1
+N;Y;0;Working;Higher education;Married;House / apartment;-854;1;0;0;0;2;1
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-185;1;0;1;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3350;1;0;0;0;2;1
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-691;1;0;0;0;2;1
+N;Y;0;Working;Lower secondary;Single / not married;Rented apartment;-4770;1;0;0;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;1;2;1
+N;N;0;Working;Higher education;Single / not married;House / apartment;-2394;1;0;0;0;1;1
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-384;1;1;0;0;3;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3647;1;0;0;0;2;1
+Y;N;0;State servant;Secondary / secondary special;Single / not married;House / apartment;-1546;1;0;0;0;2;1
+Y;Y;0;Working;Higher education;Married;House / apartment;-808;1;0;0;0;2;1
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1285;1;0;1;0;2;1
+Y;Y;0;Commercial associate;Higher education;Separated;House / apartment;-855;1;1;1;0;1;1
+Y;N;2;State servant;Higher education;Married;House / apartment;-7369;1;1;1;0;4;1
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;1
+N;Y;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2269;1;0;1;0;3;1
+N;Y;1;Pensioner;Secondary / secondary special;Single / not married;House / apartment;-2269;1;0;1;0;3;1
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-4114;1;0;0;0;3;1
+Y;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1161;1;0;0;0;3;1
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-7288;1;1;0;0;2;1
+N;N;0;Commercial associate;Incomplete higher;Single / not married;House / apartment;-166;1;1;1;0;1;1
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-866;1;0;0;0;3;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-564;1;0;0;1;2;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3366;1;0;0;0;2;1
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2150;1;1;0;0;2;1
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1458;1;0;0;0;3;1
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1458;1;0;0;0;1;1
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-8369;1;0;0;0;4;1
+N;N;2;Working;Secondary / secondary special;Single / not married;House / apartment;-8369;1;0;0;0;4;1
+N;Y;0;Pensioner;Higher education;Separated;House / apartment;365243;1;0;0;0;1;1
+N;Y;0;Pensioner;Higher education;Separated;House / apartment;365243;1;0;0;0;1;1
+N;Y;0;Pensioner;Higher education;Separated;House / apartment;365243;1;0;0;0;1;1
+N;N;0;Working;Secondary / secondary special;Single / not married;Municipal apartment;-508;1;0;0;0;1;1
+N;N;0;Working;Secondary / secondary special;Single / not married;Municipal apartment;-508;1;0;0;0;1;1
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;1
+N;Y;0;Pensioner;Lower secondary;Married;House / apartment;365243;1;0;0;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;Municipal apartment;365243;1;0;1;0;2;1
+N;Y;1;Commercial associate;Higher education;Married;House / apartment;-1567;1;0;0;1;3;1
+N;N;1;Working;Secondary / secondary special;Single / not married;House / apartment;-137;1;0;0;0;2;1
+N;Y;1;Working;Secondary / secondary special;Single / not married;House / apartment;-137;1;0;0;0;2;1
+Y;Y;0;Working;Higher education;Married;House / apartment;-3974;1;0;0;0;2;1
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1570;1;0;0;0;2;1
+Y;N;1;Working;Higher education;Married;Rented apartment;-2878;1;0;0;0;3;1
+Y;Y;1;Working;Higher education;Separated;House / apartment;-140;1;0;1;0;2;1
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2576;1;0;0;0;2;1
+Y;Y;0;State servant;Higher education;Separated;House / apartment;-1905;1;0;0;0;1;1
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-1724;1;1;0;0;2;1
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-1724;1;1;0;0;2;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1328;1;0;0;0;2;1
+N;N;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-4987;1;0;0;0;4;1
+N;Y;2;Working;Incomplete higher;Separated;House / apartment;-3496;1;1;0;0;3;1
+Y;N;0;Working;Secondary / secondary special;Married;With parents;-1394;1;0;0;0;2;1
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-1265;1;0;0;0;2;1
+Y;N;0;Working;Higher education;Married;House / apartment;-2531;1;1;1;0;2;1
+N;Y;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-2105;1;0;0;0;3;1
+N;Y;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-860;1;0;0;0;2;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-217;1;0;0;0;2;1
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-535;1;0;0;0;4;1
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+N;N;1;State servant;Secondary / secondary special;Married;Municipal apartment;-6866;1;0;0;0;3;1
+N;N;0;Working;Secondary / secondary special;Widow;Co-op apartment;-584;1;0;0;0;1;1
+N;Y;0;Working;Lower secondary;Widow;House / apartment;-2227;1;1;1;0;1;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-8161;1;0;0;0;2;1
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-613;1;0;0;0;1;1
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;1
+Y;N;0;Commercial associate;Higher education;Single / not married;Municipal apartment;-606;1;0;1;1;1;1
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-6944;1;0;0;0;2;1
+N;N;0;Working;Secondary / secondary special;Widow;Municipal apartment;-346;1;0;0;0;1;1
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;1
+Y;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;1
+N;N;1;Working;Incomplete higher;Married;Rented apartment;-1808;1;1;1;0;3;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3420;1;0;0;0;2;1
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3420;1;0;0;0;2;1
+Y;Y;0;Working;Higher education;Single / not married;House / apartment;-863;1;1;0;0;1;1
+N;Y;4;Commercial associate;Secondary / secondary special;Married;House / apartment;-7413;1;0;0;0;6;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;-7553;1;0;0;0;2;1
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-3931;1;1;1;0;3;1
+N;N;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;1
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;1
+N;N;0;Pensioner;Secondary / secondary special;Married;Municipal apartment;365243;1;0;0;0;2;1
+N;N;0;Pensioner;Secondary / secondary special;Single / not married;Municipal apartment;365243;1;0;0;0;2;1
+N;N;0;Pensioner;Secondary / secondary special;Married;Municipal apartment;365243;1;0;0;0;2;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1039;1;0;1;0;2;1
+N;N;1;Working;Secondary / secondary special;Separated;House / apartment;-134;1;0;0;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+Y;Y;0;Working;Lower secondary;Married;House / apartment;-622;1;0;1;0;2;1
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;Municipal apartment;-1595;1;0;0;0;1;1
+Y;N;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-1626;1;0;1;0;3;1
+N;Y;2;Commercial associate;Lower secondary;Civil marriage;With parents;-1868;1;1;0;0;4;1
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-555;1;0;0;0;2;1
+N;Y;0;State servant;Higher education;Single / not married;Municipal apartment;-1935;1;0;0;0;1;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-931;1;1;1;0;2;1
+N;Y;1;Commercial associate;Higher education;Single / not married;House / apartment;-900;1;0;0;0;2;1
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-4305;1;1;1;0;4;1
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-4305;1;1;1;0;4;1
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-925;1;1;1;0;3;1
+N;N;0;Commercial associate;Higher education;Separated;House / apartment;-499;1;0;1;0;1;1
+N;Y;0;Commercial associate;Higher education;Separated;House / apartment;-499;1;0;1;0;1;1
+N;N;1;Working;Secondary / secondary special;Married;Municipal apartment;-2418;1;0;0;1;3;1
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;1
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;1
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-189;1;0;0;1;1;1
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1132;1;1;1;0;3;1
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1770;1;0;0;0;2;1
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-919;1;0;1;0;1;1
+Y;N;0;Working;Secondary / secondary special;Married;Office apartment;-1081;1;0;0;0;2;1
+Y;N;1;Working;Higher education;Married;House / apartment;-502;1;0;1;1;3;1
+Y;N;1;Working;Higher education;Married;House / apartment;-502;1;0;1;1;3;1
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2420;1;0;0;0;2;1
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-1325;1;0;1;1;2;1
+N;Y;0;Pensioner;Higher education;Married;House / apartment;-1325;1;0;1;1;2;1
+N;Y;1;Working;Secondary / secondary special;Married;Municipal apartment;-6367;1;1;1;0;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2484;1;0;0;0;2;0
+N;Y;0;Commercial associate;Higher education;Civil marriage;House / apartment;-341;1;0;1;1;2;0
+N;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-9422;1;0;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-3054;1;0;0;1;3;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-2987;1;0;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2128;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-820;1;1;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-141;1;1;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Lower secondary;Married;House / apartment;-1692;1;1;0;0;3;0
+Y;N;1;Working;Higher education;Married;House / apartment;-4686;1;0;1;0;3;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-1674;1;0;0;1;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-693;1;0;0;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-567;1;0;0;0;1;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-885;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;Rented apartment;365243;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Academic degree;Single / not married;House / apartment;-2769;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1547;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Civil marriage;Rented apartment;-3179;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;With parents;-5204;1;1;1;0;2;0
+N;Y;1;Working;Lower secondary;Widow;House / apartment;-3072;1;0;1;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-320;1;0;0;0;4;0
+N;Y;0;Commercial associate;Higher education;Separated;House / apartment;-2469;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-583;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-834;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1085;1;0;1;0;2;0
+Y;N;2;Commercial associate;Incomplete higher;Married;House / apartment;-1399;1;0;0;1;4;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-7310;1;1;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1748;1;0;0;0;3;0
+Y;Y;1;Commercial associate;Higher education;Single / not married;House / apartment;-2479;1;0;0;0;2;0
+Y;Y;0;State servant;Secondary / secondary special;Married;Municipal apartment;-875;1;1;0;1;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-2805;1;1;1;0;4;0
+Y;Y;2;Working;Higher education;Married;House / apartment;-2477;1;0;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1477;1;0;0;0;2;0
+N;Y;1;Working;Higher education;Single / not married;House / apartment;-1782;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-431;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;Municipal apartment;-1416;1;1;0;0;2;0
+N;N;0;Pensioner;Higher education;Separated;House / apartment;365243;1;0;0;0;1;0
+N;N;2;Working;Incomplete higher;Married;House / apartment;-263;1;0;0;0;4;0
+Y;N;0;Commercial associate;Higher education;Separated;House / apartment;-2349;1;0;1;0;1;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-412;1;0;0;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-7068;1;0;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1787;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Widow;House / apartment;-1345;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-3717;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1048;1;1;1;0;2;0
+Y;N;1;State servant;Higher education;Married;House / apartment;-2667;1;0;1;0;3;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2606;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Single / not married;Municipal apartment;-2135;1;1;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1534;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2531;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-2311;1;0;0;0;3;0
+N;N;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-1323;1;0;1;0;4;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-5061;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-2213;1;1;1;1;1;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;With parents;-2152;1;0;1;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-925;1;0;0;1;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-4509;1;0;0;0;3;0
+N;Y;0;Commercial associate;Higher education;Civil marriage;House / apartment;-1552;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-1569;1;0;1;0;2;0
+Y;N;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1679;1;0;0;0;3;0
+N;N;0;State servant;Secondary / secondary special;Married;House / apartment;-8684;1;1;1;0;2;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-6337;1;0;1;0;4;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-97;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1222;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;With parents;-531;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;1;State servant;Secondary / secondary special;Single / not married;House / apartment;-7591;1;0;0;0;2;0
+N;Y;2;State servant;Higher education;Married;House / apartment;-5639;1;0;1;0;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1776;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-5498;1;1;1;0;2;0
+Y;N;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Commercial associate;Lower secondary;Married;Rented apartment;-1935;1;0;1;0;2;0
+Y;N;0;State servant;Secondary / secondary special;Widow;House / apartment;-5880;1;0;0;0;1;0
+Y;Y;2;Working;Higher education;Married;House / apartment;-460;1;0;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1569;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4532;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;With parents;-3309;1;0;0;0;1;0
+Y;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-3873;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-344;1;0;0;0;2;0
+Y;N;0;State servant;Higher education;Married;House / apartment;-1923;1;0;0;0;2;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-604;1;0;0;0;3;0
+Y;Y;0;Working;Higher education;Separated;House / apartment;-584;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;1;Commercial associate;Higher education;Civil marriage;House / apartment;-1922;1;0;0;0;3;0
+N;Y;2;Working;Secondary / secondary special;Single / not married;House / apartment;-1496;1;0;0;0;3;0
+Y;Y;1;State servant;Higher education;Married;House / apartment;-708;1;0;1;1;3;0
+N;N;0;State servant;Secondary / secondary special;Separated;House / apartment;-12332;1;0;1;1;1;0
+N;N;0;Working;Secondary / secondary special;Married;With parents;-622;1;1;1;0;2;0
+N;N;0;Commercial associate;Higher education;Single / not married;House / apartment;-5209;1;0;0;0;1;0
+Y;Y;0;Pensioner;Higher education;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Pensioner;Lower secondary;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-6273;1;1;0;0;1;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2722;1;0;0;0;2;0
+N;N;0;State servant;Secondary / secondary special;Married;With parents;-9363;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-746;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;With parents;-1039;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1322;1;0;0;0;1;0
+N;Y;0;Commercial associate;Incomplete higher;Married;House / apartment;-3458;1;1;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-158;1;1;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2457;1;0;0;0;2;0
+N;Y;2;Commercial associate;Incomplete higher;Separated;House / apartment;-2811;1;0;0;0;3;0
+N;N;3;Working;Higher education;Married;House / apartment;-7018;1;0;0;0;5;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;Rented apartment;-2026;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-188;1;0;0;0;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-2967;1;0;0;0;3;0
+N;N;1;Commercial associate;Secondary / secondary special;Separated;House / apartment;-3166;1;0;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-5107;1;1;0;0;3;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1649;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3694;1;0;0;1;3;0
+N;Y;2;Commercial associate;Higher education;Civil marriage;House / apartment;-3697;1;0;0;0;4;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-4596;1;0;0;0;3;0
+N;N;2;Working;Secondary / secondary special;Married;Municipal apartment;-5674;1;1;1;0;4;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1682;1;0;0;0;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-196;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;With parents;-530;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1696;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2168;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1649;1;0;0;0;2;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-13382;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1509;1;1;1;0;1;0
+N;Y;0;Commercial associate;Higher education;Separated;Rented apartment;-1347;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1405;1;0;0;1;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-227;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-9975;1;0;0;0;1;0
+N;N;0;Commercial associate;Higher education;Single / not married;House / apartment;-1505;1;0;0;0;1;0
+Y;N;0;Working;Higher education;Married;House / apartment;-5084;1;0;0;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-2905;1;0;0;0;2;0
+Y;N;2;Working;Incomplete higher;Married;House / apartment;-2213;1;0;0;0;4;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-356;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1719;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;Municipal apartment;-3680;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-962;1;0;1;0;2;0
+N;N;0;Working;Higher education;Separated;House / apartment;-3000;1;0;0;0;1;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-4275;1;1;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-110;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-2078;1;1;1;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-8377;1;0;0;0;2;0
+N;N;1;Commercial associate;Higher education;Married;House / apartment;-110;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-4392;1;1;1;0;2;0
+N;Y;1;Commercial associate;Higher education;Married;House / apartment;-126;1;0;0;0;3;0
+Y;Y;0;Working;Higher education;Separated;With parents;-7640;1;0;0;1;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Separated;House / apartment;-3153;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;With parents;-139;1;1;1;0;2;0
+Y;N;1;Working;Higher education;Widow;House / apartment;-4023;1;0;0;1;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4888;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-14887;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-3319;1;0;0;0;1;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1966;1;0;1;0;3;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-200;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-6123;1;0;0;0;4;0
+Y;Y;1;Working;Secondary / secondary special;Married;With parents;-117;1;0;0;0;3;0
+Y;Y;1;Working;Higher education;Married;Office apartment;-2625;1;0;0;0;3;0
+N;Y;0;Working;Higher education;Married;House / apartment;-1763;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3689;1;0;0;0;3;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-3414;1;0;0;0;3;0
+N;Y;1;Commercial associate;Higher education;Married;House / apartment;-2910;1;1;0;1;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;With parents;-3412;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1107;1;0;0;0;1;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Single / not married;House / apartment;-8036;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-3608;1;0;0;0;2;0
+Y;Y;2;Working;Incomplete higher;Married;House / apartment;-101;1;1;1;0;4;0
+Y;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-3231;1;1;0;0;2;0
+Y;N;1;Working;Higher education;Married;Rented apartment;-203;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;State servant;Secondary / secondary special;Married;House / apartment;-1682;1;0;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1589;1;0;1;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3577;1;1;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-735;1;1;0;0;3;0
+N;Y;0;State servant;Secondary / secondary special;Separated;Co-op apartment;-8737;1;1;1;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1617;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-1591;1;1;1;0;3;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-979;1;0;0;0;2;0
+Y;Y;2;Working;Higher education;Single / not married;House / apartment;-422;1;0;1;1;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-655;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Separated;House / apartment;-3653;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1261;1;0;0;0;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-7346;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;N;1;Working;Higher education;Married;House / apartment;-5545;1;1;0;0;3;0
+Y;Y;0;Commercial associate;Higher education;Civil marriage;House / apartment;-3810;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1190;1;0;1;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3246;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-7676;1;0;1;0;1;0
+N;N;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-1353;1;1;0;0;4;0
+N;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-3715;1;0;0;1;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1113;1;0;1;0;3;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-508;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-992;1;0;0;0;2;0
+N;Y;2;Working;Higher education;Married;House / apartment;-2289;1;0;0;1;4;0
+N;Y;0;Working;Higher education;Separated;House / apartment;-12621;1;0;1;0;1;0
+Y;N;1;State servant;Secondary / secondary special;Married;House / apartment;-3643;1;0;0;1;3;0
+N;N;0;Working;Secondary / secondary special;Married;With parents;-869;1;0;0;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-2174;1;0;0;0;4;0
+N;N;1;Working;Secondary / secondary special;Single / not married;Municipal apartment;-5336;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3535;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-4407;1;0;0;0;3;0
+N;Y;0;Working;Incomplete higher;Married;House / apartment;-453;1;1;1;0;2;0
+Y;N;0;Working;Incomplete higher;Married;With parents;-960;1;1;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-4711;1;0;0;0;1;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1965;1;0;0;0;3;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2543;1;0;1;0;3;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-1393;1;1;1;0;3;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-460;1;0;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2234;1;1;1;0;2;0
+Y;N;2;Working;Higher education;Married;House / apartment;-1631;1;0;0;0;4;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1619;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Separated;House / apartment;-5981;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-3153;1;1;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-2682;1;0;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-3443;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-2330;1;0;0;0;2;0
+N;Y;0;Working;Incomplete higher;Married;House / apartment;-413;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;Y;1;Commercial associate;Incomplete higher;Civil marriage;House / apartment;-6645;1;0;0;0;3;0
+N;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-505;1;0;0;1;4;0
+N;N;0;Working;Higher education;Civil marriage;With parents;-201;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-3273;1;0;0;0;2;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;With parents;-1462;1;0;0;0;3;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2609;1;0;0;0;2;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-521;1;1;1;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1321;1;0;0;0;2;0
+Y;N;1;State servant;Higher education;Married;House / apartment;-2467;1;0;0;0;3;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-716;1;0;0;0;4;0
+Y;Y;0;Working;Incomplete higher;Married;House / apartment;-1632;1;1;1;0;2;0
+N;N;2;Working;Higher education;Married;House / apartment;-614;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1904;1;1;0;0;1;0
+N;N;0;State servant;Secondary / secondary special;Widow;House / apartment;-351;1;1;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-7310;1;1;1;0;1;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-7260;1;1;1;0;3;0
+Y;Y;2;Commercial associate;Higher education;Married;With parents;-626;1;0;0;0;4;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-6853;1;0;0;0;2;0
+Y;Y;3;Working;Secondary / secondary special;Married;House / apartment;-458;1;1;0;0;5;0
+Y;Y;1;State servant;Higher education;Married;House / apartment;-1628;1;0;0;0;3;0
+Y;Y;2;State servant;Secondary / secondary special;Married;House / apartment;-6094;1;1;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-734;1;1;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-657;1;1;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2700;1;0;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-880;1;0;0;0;3;0
+N;N;0;Working;Higher education;Single / not married;With parents;-157;1;1;1;0;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-135;1;0;0;0;3;0
+Y;Y;0;Working;Higher education;Widow;House / apartment;-1497;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1266;1;1;1;0;2;0
+N;Y;0;State servant;Higher education;Single / not married;Municipal apartment;-1935;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-515;1;0;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1023;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2129;1;1;1;0;2;0
+N;Y;0;Working;Incomplete higher;Single / not married;House / apartment;-575;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;N;0;Commercial associate;Secondary / secondary special;Separated;House / apartment;-3262;1;1;1;1;1;0
+N;N;0;Commercial associate;Incomplete higher;Married;With parents;-430;1;1;0;1;2;0
+N;Y;3;Commercial associate;Incomplete higher;Married;House / apartment;-2207;1;0;0;1;5;0
+Y;Y;0;Working;Lower secondary;Married;With parents;-1866;1;0;0;1;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4568;1;1;1;0;2;0
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-309;1;1;1;1;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-578;1;0;0;1;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-6908;1;0;0;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-1931;1;0;1;0;3;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-8033;1;0;1;0;3;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-2257;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;N;3;Working;Secondary / secondary special;Married;House / apartment;-3776;1;1;1;0;5;0
+Y;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-140;1;0;1;0;3;0
+N;Y;0;Working;Incomplete higher;Married;House / apartment;-4583;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-4404;1;1;1;0;3;0
+Y;N;2;Working;Higher education;Married;House / apartment;-727;1;0;0;0;4;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3805;1;0;0;0;3;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2316;1;0;0;1;2;0
+N;Y;1;Working;Higher education;Married;House / apartment;-1455;1;0;0;0;3;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-5422;1;1;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-581;1;0;0;0;1;0
+Y;N;0;Working;Incomplete higher;Married;House / apartment;-893;1;1;1;1;2;0
+N;Y;2;Working;Incomplete higher;Married;House / apartment;-1860;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Commercial associate;Higher education;Separated;House / apartment;-6317;1;0;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1000;1;0;1;0;2;0
+Y;Y;1;Working;Higher education;Separated;House / apartment;-140;1;0;1;1;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Higher education;Separated;House / apartment;-4766;1;1;1;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-2259;1;0;0;1;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1344;1;0;0;1;2;0
+N;N;0;Commercial associate;Higher education;Married;With parents;-4690;1;1;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-8290;1;1;0;0;1;0
+Y;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-2052;1;0;1;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-5004;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-923;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Single / not married;Municipal apartment;-1193;1;0;0;1;1;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-793;1;0;0;1;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;With parents;-5453;1;1;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;1;State servant;Higher education;Civil marriage;House / apartment;-88;1;0;0;0;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Widow;House / apartment;-5495;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Single / not married;House / apartment;-593;1;0;1;1;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-4816;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Single / not married;Municipal apartment;365243;1;0;0;1;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-1586;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-2104;1;1;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1032;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-9698;1;0;0;1;2;0
+N;Y;1;Working;Higher education;Single / not married;House / apartment;-1131;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-1175;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-8375;1;0;0;1;2;0
+Y;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-2199;1;0;0;0;2;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;With parents;-1912;1;0;0;0;3;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-926;1;0;0;0;4;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-2499;1;0;0;0;3;0
+Y;N;0;Working;Higher education;Married;House / apartment;-2654;1;1;1;0;2;0
+N;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-1174;1;1;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-230;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-962;1;0;0;1;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2276;1;0;0;0;3;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-2197;1;0;0;1;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2468;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-11448;1;0;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-932;1;1;1;0;2;0
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-2956;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1345;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-619;1;0;0;0;2;0
+Y;N;2;Working;Secondary / secondary special;Married;House / apartment;-3787;1;0;0;0;4;0
+Y;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-1253;1;0;0;1;3;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-3242;1;1;0;0;2;0
+N;N;0;State servant;Secondary / secondary special;Married;With parents;-196;1;0;1;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;Municipal apartment;-298;1;0;1;0;1;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-1748;1;0;0;0;3;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-124;1;0;0;0;3;0
+N;N;1;Working;Secondary / secondary special;Separated;House / apartment;-4082;1;0;1;0;2;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-1431;1;0;0;1;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Civil marriage;With parents;-5330;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1266;1;0;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Separated;With parents;-1017;1;0;1;1;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1128;1;0;0;0;2;0
+N;N;2;Working;Higher education;Civil marriage;House / apartment;-3088;1;1;0;0;4;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1466;1;1;0;0;1;0
+Y;Y;14;Working;Secondary / secondary special;Separated;House / apartment;-1689;1;0;0;0;15;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3003;1;0;0;1;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4039;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-588;1;0;0;1;1;0
+Y;N;0;Working;Higher education;Married;Municipal apartment;-282;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4491;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-1155;1;0;0;0;2;0
+Y;Y;2;State servant;Secondary / secondary special;Married;House / apartment;-1220;1;0;0;0;4;0
+N;N;0;Pensioner;Higher education;Single / not married;Municipal apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-657;1;0;0;0;2;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-1203;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Separated;House / apartment;-712;1;0;1;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Single / not married;House / apartment;-2844;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4031;1;1;0;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-3322;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2878;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;2;Working;Higher education;Married;House / apartment;-6693;1;1;1;0;4;0
+N;N;1;Commercial associate;Incomplete higher;Married;With parents;-2760;1;0;0;0;3;0
+N;N;1;Commercial associate;Higher education;Married;House / apartment;-2532;1;1;1;0;3;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;With parents;-1646;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-11542;1;0;0;0;2;0
+Y;N;1;Working;Higher education;Single / not married;With parents;-5408;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Separated;House / apartment;-1374;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3092;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-351;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;Municipal apartment;-2993;1;1;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-2379;1;0;0;0;4;0
+N;N;0;Working;Secondary / secondary special;Married;Municipal apartment;-1281;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-7804;1;1;0;0;2;0
+Y;N;2;Working;Higher education;Married;House / apartment;-3002;1;0;1;0;4;0
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-825;1;1;1;1;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2128;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2057;1;0;0;0;1;0
+N;N;0;State servant;Incomplete higher;Single / not married;House / apartment;-1611;1;1;0;0;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-652;1;0;0;0;3;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-2537;1;0;1;0;1;0
+Y;Y;2;Working;Higher education;Married;House / apartment;-992;1;0;0;0;4;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-2331;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;N;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-4710;1;1;1;0;3;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1191;1;0;0;0;3;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;State servant;Secondary / secondary special;Married;House / apartment;-1162;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-3900;1;0;0;0;3;0
+N;Y;0;Pensioner;Lower secondary;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;Working;Higher education;Married;House / apartment;-219;1;0;0;0;3;0
+N;Y;0;Working;Incomplete higher;Married;House / apartment;-223;1;0;0;1;2;0
+N;N;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-900;1;1;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3034;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-3329;1;0;1;0;3;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-235;1;0;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3503;1;0;0;0;2;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-1324;1;0;0;0;4;0
+N;Y;2;State servant;Higher education;Married;House / apartment;-3112;1;0;0;1;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2959;1;0;0;0;2;0
+N;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-234;1;0;0;0;2;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-719;1;0;0;0;3;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-217;1;1;1;0;2;0
+N;Y;1;Commercial associate;Incomplete higher;Married;House / apartment;-2616;1;1;1;0;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-4410;1;0;0;1;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1587;1;1;1;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;With parents;-1537;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-1430;1;0;1;0;1;0
+N;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-1928;1;0;1;0;1;0
+Y;Y;1;Working;Incomplete higher;Civil marriage;House / apartment;-2753;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-867;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2134;1;0;0;0;1;0
+Y;N;2;Commercial associate;Higher education;Married;House / apartment;-460;1;0;0;0;4;0
+N;Y;3;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;5;0
+Y;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;1;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3232;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-95;1;0;0;0;1;0
+N;Y;1;Working;Higher education;Married;House / apartment;-3690;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-9870;1;1;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4979;1;0;0;0;2;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-3396;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-461;1;0;0;0;1;0
+Y;N;0;State servant;Incomplete higher;Single / not married;House / apartment;-5206;1;1;0;0;1;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-3173;1;0;0;0;4;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-732;1;0;0;1;3;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-2531;1;1;0;0;4;0
+N;N;0;Commercial associate;Higher education;Separated;With parents;-432;1;0;0;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2102;1;1;1;0;3;0
+N;N;1;Working;Secondary / secondary special;Single / not married;House / apartment;-6583;1;0;1;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-156;1;0;0;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-2199;1;0;0;0;3;0
+N;Y;1;Working;Higher education;Married;House / apartment;-5460;1;1;1;0;3;0
+N;N;0;State servant;Secondary / secondary special;Single / not married;House / apartment;-1589;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2506;1;0;0;0;1;0
+N;Y;0;Commercial associate;Incomplete higher;Married;House / apartment;-3397;1;0;0;0;2;0
+Y;N;2;Working;Secondary / secondary special;Married;House / apartment;-3792;1;0;0;0;4;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3230;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2464;1;0;1;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-1682;1;0;0;1;2;0
+N;Y;1;Working;Secondary / secondary special;Single / not married;House / apartment;-3334;1;0;1;0;2;0
+Y;N;0;Working;Secondary / secondary special;Civil marriage;Office apartment;-3110;1;0;0;0;2;0
+Y;Y;1;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;3;0
+N;N;0;State servant;Secondary / secondary special;Married;House / apartment;-2966;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-3694;1;1;1;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Separated;House / apartment;-2257;1;0;1;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-2728;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Pensioner;Lower secondary;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Separated;House / apartment;-855;1;1;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Separated;House / apartment;-4161;1;0;0;0;1;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-1000;1;0;0;0;4;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-7494;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-4280;1;1;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-5891;1;0;0;0;1;0
+N;Y;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-1350;1;0;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-609;1;0;1;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2381;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1613;1;0;0;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3533;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-6218;1;1;1;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-2874;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;1;Working;Higher education;Married;With parents;-1654;1;0;0;0;3;0
+N;Y;0;Pensioner;Higher education;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Higher education;Civil marriage;House / apartment;-2433;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;Municipal apartment;-4534;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1131;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-521;1;1;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-522;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2269;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Separated;House / apartment;-798;1;0;1;0;1;0
+Y;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-2620;1;0;0;0;2;0
+Y;Y;1;State servant;Higher education;Married;House / apartment;-145;1;0;0;1;3;0
+Y;Y;0;Working;Higher education;Civil marriage;House / apartment;-663;1;1;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2299;1;0;0;0;2;0
+N;Y;0;Working;Higher education;Single / not married;House / apartment;-3153;1;0;1;0;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-1812;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2589;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-130;1;1;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-5056;1;1;1;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-796;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-7341;1;1;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2728;1;0;0;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-1130;1;0;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-5436;1;1;1;0;2;0
+Y;Y;0;State servant;Higher education;Married;House / apartment;-2368;1;0;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1889;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1315;1;0;0;0;1;0
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-1678;1;0;1;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-2939;1;1;1;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-1616;1;0;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-8405;1;0;1;0;1;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-3476;1;0;0;0;4;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-3453;1;0;0;0;2;0
+Y;N;1;Commercial associate;Incomplete higher;Married;House / apartment;-3769;1;0;0;0;3;0
+N;Y;1;Working;Higher education;Married;House / apartment;-1359;1;1;1;1;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2990;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2321;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-4267;1;0;0;0;3;0
+N;Y;1;Working;Secondary / secondary special;Married;With parents;-1386;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-645;1;1;0;0;2;0
+Y;Y;0;State servant;Higher education;Single / not married;House / apartment;-886;1;0;0;1;1;0
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-1823;1;0;1;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4965;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1868;1;1;1;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3716;1;1;1;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1344;1;1;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1557;1;0;0;0;1;0
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-3761;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-3716;1;1;1;0;2;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;3;Working;Secondary / secondary special;Married;House / apartment;-1981;1;0;0;0;5;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-102;1;0;0;0;2;0
+N;N;0;Working;Incomplete higher;Civil marriage;With parents;-288;1;1;0;1;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2147;1;0;1;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-6908;1;0;0;0;2;0
+Y;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-3929;1;1;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-424;1;1;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1069;1;0;0;0;1;0
+N;Y;0;State servant;Secondary / secondary special;Married;Rented apartment;-2323;1;1;0;1;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-2174;1;0;0;0;2;0
+N;Y;0;State servant;Incomplete higher;Married;House / apartment;-3332;1;0;0;0;2;0
+N;Y;1;State servant;Higher education;Single / not married;With parents;-553;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-375;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Separated;House / apartment;-6352;1;0;0;0;1;0
+Y;N;1;Working;Secondary / secondary special;Separated;House / apartment;-1056;1;0;1;0;2;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;With parents;-1172;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-4663;1;0;1;0;2;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-678;1;0;1;1;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;0;0;2;0
+N;N;0;State servant;Higher education;Married;House / apartment;-5587;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Single / not married;Municipal apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1406;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-8966;1;0;0;0;2;0
+N;Y;3;Working;Secondary / secondary special;Married;House / apartment;-6860;1;0;0;0;5;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-346;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Widow;House / apartment;-1463;1;0;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-157;1;0;0;1;2;0
+Y;N;2;Working;Secondary / secondary special;Married;With parents;-561;1;0;0;0;4;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-3661;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-505;1;1;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Pensioner;Incomplete higher;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-6764;1;0;0;0;2;0
+N;Y;0;Working;Higher education;Single / not married;House / apartment;-10600;1;0;0;0;1;0
+Y;N;1;Working;Higher education;Married;House / apartment;-3999;1;1;1;0;3;0
+N;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-3960;1;0;0;0;4;0
+Y;N;1;Commercial associate;Higher education;Married;House / apartment;-2065;1;1;1;1;3;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Single / not married;Municipal apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Higher education;Married;With parents;-2227;1;0;1;0;2;0
+N;Y;0;Working;Higher education;Civil marriage;House / apartment;-1205;1;0;0;0;2;0
+Y;N;2;Working;Secondary / secondary special;Married;Municipal apartment;-1135;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-5190;1;0;0;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-3720;1;1;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-2633;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;N;1;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;3;0
+Y;N;0;Commercial associate;Higher education;Single / not married;House / apartment;-158;1;0;0;0;1;0
+N;N;1;Commercial associate;Higher education;Married;With parents;-3272;1;0;0;0;3;0
+N;N;1;State servant;Higher education;Married;House / apartment;-2500;1;1;1;1;3;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-4327;1;0;0;0;2;0
+N;Y;0;State servant;Secondary / secondary special;Civil marriage;House / apartment;-6033;1;0;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;With parents;-170;1;0;0;0;3;0
+N;N;0;Working;Incomplete higher;Civil marriage;House / apartment;-278;1;1;0;1;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-3062;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;Office apartment;-8157;1;1;1;0;2;0
+Y;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-2653;1;0;1;0;4;0
+N;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-1953;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-5457;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1997;1;0;0;0;2;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-3435;1;1;1;1;2;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;N;1;Working;Higher education;Married;House / apartment;-1504;1;1;0;0;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;Municipal apartment;-2696;1;1;0;0;2;0
+N;Y;1;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-13735;1;0;0;0;1;0
+N;N;0;Commercial associate;Higher education;Single / not married;With parents;-227;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-132;1;0;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-6621;1;1;1;0;4;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-2481;1;0;0;0;3;0
+N;N;0;State servant;Secondary / secondary special;Married;House / apartment;-2818;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-11906;1;0;1;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-1077;1;0;1;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-9258;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;Office apartment;-2277;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2422;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-826;1;0;0;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2969;1;1;0;0;3;0
+N;Y;0;State servant;Incomplete higher;Single / not married;With parents;-2086;1;0;1;1;1;0
+N;N;0;Commercial associate;Incomplete higher;Married;House / apartment;-1070;1;1;0;0;2;0
+N;Y;1;Working;Higher education;Married;House / apartment;-8172;1;1;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-701;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1384;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-9447;1;0;0;0;1;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-1160;1;1;1;0;4;0
+N;N;1;State servant;Secondary / secondary special;Married;Rented apartment;-1952;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-4816;1;0;1;0;2;0
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-1354;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;Municipal apartment;-1128;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-469;1;0;0;0;2;0
+Y;N;2;Working;Secondary / secondary special;Married;House / apartment;-217;1;0;1;0;4;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-3273;1;1;1;0;2;0
+Y;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+Y;N;1;Working;Higher education;Married;Rented apartment;-563;1;0;0;1;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Higher education;Separated;House / apartment;-1526;1;0;0;0;1;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-2092;1;0;0;0;4;0
+Y;Y;0;State servant;Secondary / secondary special;Civil marriage;House / apartment;-1749;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-931;1;0;1;1;3;0
+Y;N;3;Commercial associate;Secondary / secondary special;Married;House / apartment;-1674;1;0;0;0;5;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-168;1;0;1;0;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1128;1;0;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Incomplete higher;Married;House / apartment;-4029;1;0;0;1;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-4967;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3282;1;0;0;0;2;0
+N;N;0;Commercial associate;Incomplete higher;Single / not married;House / apartment;-339;1;0;0;0;1;0
+N;N;1;Commercial associate;Secondary / secondary special;Separated;House / apartment;-7979;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-9683;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-577;1;0;0;1;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2622;1;1;1;1;2;0
+Y;N;1;Working;Secondary / secondary special;Married;Rented apartment;-1678;1;1;1;1;3;0
+N;N;1;Working;Secondary / secondary special;Married;With parents;-976;1;0;0;0;3;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-3608;1;0;0;0;4;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1994;1;0;1;0;3;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1563;1;0;0;0;4;0
+N;N;0;Pensioner;Higher education;Married;Municipal apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4523;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;With parents;-340;1;1;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1081;1;1;0;1;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-6614;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1639;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-919;1;0;1;0;1;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-3392;1;1;1;1;3;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-3261;1;1;1;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-3928;1;0;0;0;3;0
+Y;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Commercial associate;Higher education;Married;With parents;-5082;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3630;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-3591;1;0;1;1;1;0
+Y;N;2;Commercial associate;Higher education;Married;House / apartment;-1199;1;0;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-4304;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;1;State servant;Secondary / secondary special;Civil marriage;House / apartment;-2514;1;0;0;1;3;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-2187;1;1;1;0;4;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-7140;1;0;0;0;1;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-96;1;1;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-5176;1;0;0;0;3;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-6761;1;1;1;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-2356;1;0;1;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-2908;1;1;0;1;3;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-3333;1;1;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-3596;1;0;1;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-4606;1;0;0;0;4;0
+N;N;1;Working;Incomplete higher;Married;House / apartment;-4030;1;1;1;0;3;0
+N;N;0;State servant;Secondary / secondary special;Widow;House / apartment;-5246;1;1;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3054;1;0;0;0;1;0
+Y;N;0;Commercial associate;Incomplete higher;Married;House / apartment;-2906;1;0;1;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-1915;1;0;1;0;3;0
+N;Y;0;Pensioner;Incomplete higher;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1267;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-1256;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1721;1;0;1;0;3;0
+N;Y;2;Working;Secondary / secondary special;Civil marriage;House / apartment;-2317;1;0;0;0;4;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1518;1;0;0;0;4;0
+Y;Y;0;Working;Secondary / secondary special;Married;Rented apartment;-864;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-7364;1;1;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1101;1;1;0;0;1;0
+N;N;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2231;1;0;0;0;2;0
+Y;Y;2;Commercial associate;Higher education;Married;With parents;-1327;1;0;0;0;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-355;1;1;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1934;1;1;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+N;N;0;Working;Higher education;Civil marriage;House / apartment;-5179;1;1;1;0;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-2326;1;0;1;1;3;0
+Y;N;1;Working;Higher education;Civil marriage;House / apartment;-980;1;1;1;0;3;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1224;1;0;0;1;3;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-7048;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1678;1;0;0;0;2;0
+N;Y;1;Commercial associate;Higher education;Married;House / apartment;-2266;1;0;0;1;3;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-73;1;0;0;0;4;0
+N;N;0;Working;Higher education;Married;House / apartment;-3443;1;0;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-2661;1;1;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-286;1;1;0;0;2;0
+Y;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-8044;1;0;0;0;3;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-523;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-978;1;0;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-795;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-2351;1;0;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-1114;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-3760;1;1;1;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-1327;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-5145;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Single / not married;With parents;-663;1;1;1;0;1;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-4119;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;Municipal apartment;365243;1;0;1;0;1;0
+N;Y;0;State servant;Secondary / secondary special;Widow;House / apartment;-2052;1;0;1;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3641;1;0;0;0;2;0
+Y;Y;2;Working;Incomplete higher;Married;House / apartment;-1678;1;0;1;0;4;0
+Y;Y;0;Working;Higher education;Married;Rented apartment;-481;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-4603;1;0;0;0;3;0
+N;N;0;Working;Incomplete higher;Married;House / apartment;-1904;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-888;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-393;1;0;0;0;3;0
+Y;N;0;Working;Higher education;Married;With parents;-1007;1;1;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-10688;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1724;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-2228;1;0;0;0;2;0
+Y;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-8479;1;0;0;0;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2180;1;0;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1362;1;0;0;0;1;0
+Y;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1876;1;0;0;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-3503;1;0;1;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-2265;1;0;1;0;2;0
+N;Y;0;State servant;Higher education;Separated;House / apartment;-11389;1;0;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-4146;1;0;0;0;1;0
+N;N;1;Working;Secondary / secondary special;Single / not married;House / apartment;-926;1;1;1;0;3;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-5500;1;0;0;1;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-5521;1;0;0;0;2;0
+N;N;0;Commercial associate;Higher education;Married;House / apartment;-1081;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-658;1;0;0;0;1;0
+N;N;1;Working;Secondary / secondary special;Civil marriage;With parents;-3695;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;Rented apartment;-901;1;0;0;0;2;0
+N;N;0;Working;Higher education;Separated;House / apartment;-1526;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1751;1;0;0;0;1;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-3663;1;0;0;0;3;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3334;1;1;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3149;1;1;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-4491;1;0;0;0;3;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-1375;1;0;0;1;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;Municipal apartment;-1162;1;1;0;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-183;1;0;0;1;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-500;1;0;0;0;2;0
+Y;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-489;1;0;1;0;4;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2450;1;0;0;1;2;0
+N;Y;3;Working;Secondary / secondary special;Married;House / apartment;-1539;1;0;0;0;5;0
+N;Y;0;Working;Higher education;Married;House / apartment;-1556;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-7095;1;0;0;0;2;0
+Y;N;0;Commercial associate;Incomplete higher;Civil marriage;With parents;-674;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-2605;1;1;1;0;3;0
+N;Y;1;Working;Higher education;Married;House / apartment;-1999;1;1;1;0;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-555;1;0;0;0;1;0
+Y;Y;0;Working;Incomplete higher;Married;House / apartment;-4599;1;0;1;0;2;0
+Y;N;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-6488;1;1;1;0;3;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;With parents;-1054;1;0;0;0;1;0
+N;N;2;Working;Secondary / secondary special;Married;With parents;-745;1;0;0;0;4;0
+N;N;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Pensioner;Higher education;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;3;Commercial associate;Secondary / secondary special;Married;House / apartment;-412;1;1;1;0;5;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3505;1;0;1;0;2;0
+N;Y;1;Working;Higher education;Separated;House / apartment;-1585;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1812;1;1;1;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-6904;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Civil marriage;Rented apartment;-2530;1;0;0;0;2;0
+Y;N;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-1420;1;0;0;0;3;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-314;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2441;1;0;0;0;2;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-11884;1;1;0;0;2;0
+N;Y;1;State servant;Higher education;Married;House / apartment;-4520;1;0;0;0;3;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-460;1;1;1;0;2;0
+N;N;0;Working;Higher education;Single / not married;Office apartment;-3289;1;0;0;0;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-1495;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1161;1;0;1;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-3504;1;0;1;1;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3093;1;0;0;0;1;0
+N;N;0;Working;Higher education;Married;With parents;-2417;1;1;1;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-1463;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-2554;1;0;0;0;3;0
+Y;Y;0;Pensioner;Lower secondary;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Widow;With parents;-818;1;1;1;0;1;0
+Y;Y;1;Commercial associate;Higher education;Civil marriage;House / apartment;-2537;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;1;Working;Incomplete higher;Married;House / apartment;-9359;1;0;0;0;3;0
+Y;Y;0;Working;Incomplete higher;Married;House / apartment;-1508;1;0;1;0;2;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+Y;N;0;Commercial associate;Incomplete higher;Separated;House / apartment;-1344;1;0;1;1;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-10364;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4331;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+N;N;0;Pensioner;Higher education;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Higher education;Married;House / apartment;-2296;1;1;1;0;2;0
+Y;N;2;Working;Secondary / secondary special;Separated;With parents;-1626;1;0;0;0;3;0
+Y;N;0;Working;Secondary / secondary special;Separated;House / apartment;-2142;1;0;0;0;1;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-3163;1;0;1;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-3961;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2896;1;0;1;0;1;0
+Y;Y;0;Commercial associate;Higher education;Separated;House / apartment;-1185;1;0;0;0;1;0
+N;N;2;Working;Secondary / secondary special;Married;With parents;-1670;1;0;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3670;1;0;0;0;2;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-1202;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4936;1;1;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-596;1;0;0;0;4;0
+N;N;0;State servant;Higher education;Married;House / apartment;-6648;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;1;0;2;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Separated;House / apartment;-747;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1741;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;With parents;-1615;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-2052;1;0;0;1;1;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Working;Incomplete higher;Married;House / apartment;-1444;1;0;0;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2089;1;1;1;0;3;0
+N;Y;2;Working;Secondary / secondary special;Married;With parents;-397;1;0;0;0;4;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-923;1;1;0;1;2;0
+N;Y;0;Working;Higher education;Single / not married;House / apartment;-2592;1;0;1;0;1;0
+Y;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-2234;1;0;1;0;2;0
+Y;N;1;Working;Higher education;Single / not married;House / apartment;-1618;1;0;0;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-825;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2822;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-923;1;0;1;1;2;0
+N;N;0;Commercial associate;Higher education;Single / not married;House / apartment;-1600;1;0;0;0;1;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2558;1;0;0;0;1;0
+Y;N;1;Working;Secondary / secondary special;Married;House / apartment;-991;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2758;1;1;1;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2988;1;1;1;1;2;0
+N;N;2;State servant;Secondary / secondary special;Married;Office apartment;-2904;1;1;0;0;4;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-73;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3366;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3377;1;0;0;0;2;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-3902;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3202;1;1;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-671;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-848;1;1;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-552;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2559;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2361;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-3854;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1182;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-2384;1;1;0;0;1;0
+Y;Y;0;State servant;Higher education;Married;House / apartment;-8230;1;0;0;0;2;0
+Y;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Higher education;Single / not married;Co-op apartment;-531;1;1;1;0;1;0
+N;N;1;Working;Higher education;Married;House / apartment;-2493;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-2362;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-962;1;0;0;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-4034;1;0;0;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1619;1;1;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;Y;2;State servant;Higher education;Married;House / apartment;-2143;1;0;0;0;4;0
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-1569;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2393;1;0;0;0;2;0
+Y;Y;2;State servant;Higher education;Married;House / apartment;-2565;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1101;1;1;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-450;1;0;0;1;1;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-5496;1;1;1;0;4;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2319;1;0;0;0;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-2257;1;0;0;0;2;0
+N;Y;1;State servant;Secondary / secondary special;Civil marriage;House / apartment;-191;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-1406;1;0;0;0;1;0
+Y;Y;0;State servant;Higher education;Married;House / apartment;-3506;1;0;0;0;2;0
+Y;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-2865;1;1;1;0;3;0
+N;N;0;Commercial associate;Incomplete higher;Married;House / apartment;-2339;1;0;1;0;2;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-1086;1;0;0;0;4;0
+N;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-2072;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-7013;1;1;1;0;2;0
+N;Y;2;Working;Secondary / secondary special;Separated;House / apartment;-3008;1;1;0;0;3;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-2932;1;0;1;0;3;0
+N;Y;0;Working;Incomplete higher;Civil marriage;House / apartment;-1751;1;0;0;0;2;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-565;1;1;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;With parents;-1282;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-3902;1;1;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3154;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1539;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1225;1;0;0;0;2;0
+N;N;2;Working;Lower secondary;Single / not married;House / apartment;-2333;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-235;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1869;1;0;1;0;2;0
+Y;N;0;State servant;Secondary / secondary special;Married;House / apartment;-11940;1;0;1;0;2;0
+N;Y;1;State servant;Higher education;Married;House / apartment;-3515;1;0;0;1;3;0
+N;Y;0;Working;Secondary / secondary special;Separated;House / apartment;-3291;1;0;0;0;1;0
+Y;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-407;1;0;1;1;3;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-3246;1;0;0;0;3;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;1;Commercial associate;Higher education;Married;With parents;-444;1;0;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-226;1;1;1;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1923;1;1;1;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;Municipal apartment;365243;1;0;0;0;2;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-279;1;1;0;0;4;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1661;1;1;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-1458;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-896;1;0;0;0;1;0
+N;N;1;Working;Secondary / secondary special;Married;With parents;-1328;1;0;0;0;3;0
+N;N;0;Commercial associate;Secondary / secondary special;Separated;Municipal apartment;-670;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-2533;1;0;0;0;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-7400;1;1;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3339;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1259;1;1;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;Municipal apartment;-1866;1;0;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1570;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-235;1;0;0;0;2;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-265;1;0;0;1;4;0
+N;N;1;Working;Higher education;Single / not married;House / apartment;-1870;1;0;0;0;2;0
+Y;N;2;Working;Secondary / secondary special;Married;House / apartment;-2540;1;1;0;0;4;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1678;1;0;1;1;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2978;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;0
+N;N;3;Working;Secondary / secondary special;Married;House / apartment;-3505;1;1;1;0;5;0
+N;N;0;Working;Secondary / secondary special;Separated;House / apartment;-187;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Incomplete higher;Married;House / apartment;-477;1;0;0;0;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1436;1;0;0;0;4;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Separated;House / apartment;-1978;1;0;0;1;1;0
+N;Y;0;Working;Higher education;Single / not married;House / apartment;-1133;1;0;0;0;1;0
+N;N;3;Working;Secondary / secondary special;Married;House / apartment;-3535;1;0;0;0;5;0
+N;N;0;State servant;Incomplete higher;Married;House / apartment;-2985;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-10758;1;0;0;0;2;0
+N;Y;0;Pensioner;Incomplete higher;Separated;House / apartment;365243;1;0;0;0;1;0
+N;N;1;Working;Higher education;Married;House / apartment;-6273;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-4288;1;0;0;0;2;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1526;1;0;1;0;1;0
+N;N;2;Working;Secondary / secondary special;Married;House / apartment;-89;1;1;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-6930;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1807;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-3143;1;1;1;0;2;0
+Y;N;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-3850;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-1649;1;0;1;0;2;0
+N;Y;2;Working;Higher education;Married;House / apartment;-4560;1;1;0;0;4;0
+N;N;1;Working;Higher education;Married;House / apartment;-785;1;1;1;0;3;0
+N;Y;1;State servant;Incomplete higher;Civil marriage;House / apartment;-3570;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2349;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-777;1;1;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;Municipal apartment;-11451;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-412;1;1;0;0;1;0
+N;N;1;Working;Secondary / secondary special;Separated;House / apartment;-742;1;1;1;0;2;0
+N;Y;2;Working;Higher education;Married;House / apartment;-5950;1;0;0;0;4;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-464;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-385;1;0;0;1;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-2475;1;0;0;0;2;0
+N;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-3694;1;0;0;1;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2051;1;0;0;0;2;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-808;1;1;0;1;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3607;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-2454;1;0;1;0;1;0
+N;N;2;Working;Higher education;Married;With parents;-7614;1;1;1;0;4;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1070;1;0;0;1;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1107;1;1;1;0;3;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2796;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-642;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;Rented apartment;-2654;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-1436;1;0;0;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-4004;1;0;0;0;2;0
+N;Y;1;Working;Higher education;Married;House / apartment;-2207;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Commercial associate;Higher education;Single / not married;House / apartment;-3680;1;1;1;0;1;0
+Y;Y;1;State servant;Higher education;Married;House / apartment;-4917;1;0;0;0;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-5622;1;0;1;0;2;0
+N;Y;2;Commercial associate;Secondary / secondary special;Married;House / apartment;-716;1;0;0;0;4;0
+Y;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-1466;1;0;0;1;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1359;1;0;0;1;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-313;1;1;0;0;3;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1753;1;0;1;0;3;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-5830;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1677;1;0;0;0;3;0
+Y;N;0;Working;Incomplete higher;Single / not married;House / apartment;-3078;1;1;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3061;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Working;Higher education;Married;House / apartment;-187;1;0;0;1;2;0
+N;Y;1;Working;Secondary / secondary special;Separated;Municipal apartment;-625;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1381;1;0;1;0;1;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-308;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-932;1;0;0;1;1;0
+N;Y;0;State servant;Secondary / secondary special;Single / not married;House / apartment;-5437;1;0;0;0;1;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-218;1;0;0;0;2;0
+Y;N;2;State servant;Higher education;Married;With parents;-1539;1;0;0;0;4;0
+Y;N;0;Working;Secondary / secondary special;Married;With parents;-3195;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Widow;House / apartment;-2057;1;0;0;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1198;1;0;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-1473;1;1;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;Working;Higher education;Single / not married;House / apartment;-5483;1;1;1;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-704;1;1;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-12870;1;1;1;0;2;0
+Y;Y;0;Working;Lower secondary;Married;House / apartment;-622;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;Rented apartment;-5373;1;0;0;0;1;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-7128;1;0;0;0;2;0
+N;N;1;Working;Higher education;Married;House / apartment;-469;1;1;1;0;3;0
+Y;Y;1;State servant;Higher education;Married;House / apartment;-2255;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-5345;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-3574;1;0;0;0;1;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2441;1;0;0;0;1;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-164;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-6226;1;0;0;0;2;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-6678;1;1;0;0;2;0
+N;Y;0;Working;Higher education;Married;With parents;-825;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Civil marriage;Municipal apartment;-2024;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-890;1;0;0;0;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-6075;1;0;1;0;3;0
+N;N;0;Working;Higher education;Single / not married;House / apartment;-1774;1;1;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-189;1;0;0;1;1;0
+N;Y;0;Working;Incomplete higher;Single / not married;House / apartment;-7288;1;0;0;0;1;0
+Y;Y;1;Commercial associate;Incomplete higher;Civil marriage;House / apartment;-686;1;0;1;0;3;0
+N;N;1;Commercial associate;Higher education;Married;House / apartment;-727;1;0;0;0;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3229;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Incomplete higher;Civil marriage;Office apartment;-3455;1;0;0;0;3;0
+N;Y;0;Working;Higher education;Married;House / apartment;-460;1;0;1;1;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Civil marriage;House / apartment;-5454;1;0;0;0;3;0
+N;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+N;Y;0;State servant;Secondary / secondary special;Single / not married;House / apartment;-13010;1;1;0;0;1;0
+Y;Y;1;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-5507;1;0;1;0;2;0
+N;N;0;Working;Higher education;Married;House / apartment;-6640;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-5488;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-221;1;0;0;0;2;0
+Y;N;2;Working;Higher education;Married;House / apartment;-127;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;State servant;Secondary / secondary special;Civil marriage;House / apartment;-8760;1;0;0;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;1;0;1;0
+Y;Y;1;Working;Lower secondary;Married;House / apartment;-864;1;0;0;1;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-7718;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Civil marriage;House / apartment;-613;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3123;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;0;State servant;Higher education;Married;With parents;-1652;1;1;1;0;2;0
+Y;Y;2;Working;Secondary / secondary special;Married;House / apartment;-6879;1;0;0;0;4;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;N;2;Commercial associate;Higher education;Married;House / apartment;-2673;1;0;0;0;4;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-420;1;0;0;0;3;0
+N;N;0;Commercial associate;Higher education;Married;With parents;-413;1;0;0;1;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-1072;1;0;0;0;1;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-5760;1;1;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Married;House / apartment;-1871;1;0;1;1;2;0
+N;Y;2;Working;Secondary / secondary special;Married;House / apartment;-1707;1;1;1;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+N;N;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-1962;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;Rented apartment;-1598;1;0;0;0;1;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1583;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-7264;1;0;0;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-536;1;0;0;1;3;0
+N;N;1;Working;Secondary / secondary special;Widow;House / apartment;-1313;1;0;0;0;2;0
+N;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-2512;1;0;0;0;3;0
+Y;N;2;Working;Secondary / secondary special;Married;House / apartment;-5673;1;1;0;0;4;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;1;2;0
+N;Y;0;Pensioner;Higher education;Separated;House / apartment;365243;1;0;0;0;1;0
+Y;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-3380;1;0;0;0;3;0
+Y;Y;0;Commercial associate;Incomplete higher;Married;House / apartment;-3944;1;0;1;0;2;0
+N;Y;0;State servant;Higher education;Married;House / apartment;-3654;1;0;1;0;2;0
+N;Y;1;Pensioner;Secondary / secondary special;Civil marriage;House / apartment;365243;1;0;0;0;3;0
+N;N;0;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-171;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1801;1;0;0;0;2;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;House / apartment;-1138;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-3944;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Incomplete higher;Widow;House / apartment;-1897;1;1;1;0;1;0
+N;N;0;Pensioner;Secondary / secondary special;Separated;Municipal apartment;365243;1;0;0;0;1;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-2980;1;0;0;0;2;0
+N;Y;0;Pensioner;Lower secondary;Single / not married;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Higher education;Married;With parents;-1175;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3329;1;0;0;1;3;0
+N;N;1;Commercial associate;Higher education;Married;House / apartment;-1581;1;0;0;0;3;0
+Y;N;2;State servant;Secondary / secondary special;Married;House / apartment;-6558;1;1;1;0;4;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-4434;1;0;1;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;Municipal apartment;-210;1;1;1;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3032;1;1;1;0;3;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2389;1;0;0;0;1;0
+Y;N;0;Working;Higher education;Married;House / apartment;-139;1;0;0;0;2;0
+Y;Y;0;Working;Higher education;Married;With parents;-1467;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-377;1;1;1;0;1;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-10762;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2788;1;0;1;0;2;0
+Y;Y;3;Working;Secondary / secondary special;Married;House / apartment;-3668;1;0;1;0;5;0
+N;Y;0;State servant;Secondary / secondary special;Married;House / apartment;-2340;1;0;0;0;2;0
+N;N;2;State servant;Higher education;Married;House / apartment;-5345;1;0;0;0;4;0
+Y;N;0;Working;Secondary / secondary special;Single / not married;House / apartment;-9925;1;1;1;0;1;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-918;1;1;1;0;2;0
+N;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-4219;1;1;1;0;1;0
+Y;N;1;Working;Higher education;Married;House / apartment;-194;1;1;0;1;3;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-3010;1;0;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-370;1;1;0;0;1;0
+N;Y;1;State servant;Secondary / secondary special;Married;House / apartment;-232;1;0;0;0;3;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;With parents;-285;1;0;0;0;1;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;1;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-1830;1;1;0;1;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-3853;1;0;0;0;2;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-2866;1;0;1;1;4;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1022;1;0;1;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-2423;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-2545;1;1;1;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-6230;1;1;1;1;2;0
+N;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-104;1;0;1;0;3;0
+Y;N;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-2631;1;0;0;0;1;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-367;1;0;0;0;3;0
+Y;Y;1;Commercial associate;Secondary / secondary special;Married;House / apartment;-857;1;0;0;0;3;0
+Y;Y;2;Working;Higher education;Married;House / apartment;-4887;1;0;0;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+N;Y;2;Commercial associate;Higher education;Married;House / apartment;-433;1;0;1;0;4;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;Municipal apartment;365243;1;0;1;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+Y;Y;1;Commercial associate;Higher education;Married;House / apartment;-803;1;1;1;0;3;0
+N;N;0;Working;Higher education;Married;House / apartment;-3361;1;0;0;0;2;0
+N;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1520;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;1;0;1;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1463;1;1;0;0;2;0
+Y;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Secondary / secondary special;Married;House / apartment;-5155;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-712;1;1;0;0;2;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3246;1;0;0;0;3;0
+N;N;0;State servant;Higher education;Married;House / apartment;-5006;1;0;0;0;2;0
+N;Y;0;Working;Lower secondary;Civil marriage;House / apartment;-2191;1;0;0;0;2;0
+Y;N;1;Commercial associate;Higher education;Married;House / apartment;-431;1;1;0;0;3;0
+Y;N;0;Working;Secondary / secondary special;Married;House / apartment;-1064;1;0;1;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-828;1;0;0;0;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-4874;1;0;0;1;2;0
+N;Y;0;Commercial associate;Secondary / secondary special;Single / not married;House / apartment;-1217;1;0;0;1;1;0
+N;N;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;1;Working;Academic degree;Civil marriage;House / apartment;-7557;1;0;1;0;3;0
+N;Y;0;Pensioner;Secondary / secondary special;Married;House / apartment;365243;1;0;0;0;2;0
+N;Y;0;Pensioner;Secondary / secondary special;Single / not married;House / apartment;365243;1;0;1;0;1;0
+N;N;0;State servant;Secondary / secondary special;Married;House / apartment;-5334;1;1;1;0;2;0
+Y;N;0;Working;Higher education;Married;House / apartment;-611;1;0;0;0;2;0
+N;Y;1;Commercial associate;Incomplete higher;Single / not married;House / apartment;-140;1;0;0;0;2;0
+N;N;0;State servant;Higher education;Civil marriage;House / apartment;-5215;1;0;0;1;2;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-438;1;0;0;0;2;0
+N;Y;3;Commercial associate;Secondary / secondary special;Widow;House / apartment;-461;1;1;1;0;4;0
+Y;Y;0;Pensioner;Secondary / secondary special;Widow;House / apartment;365243;1;0;0;0;1;0
+Y;Y;0;Working;Secondary / secondary special;Married;House / apartment;-1741;1;0;0;0;2;0
+N;Y;0;Pensioner;Higher education;Single / not married;House / apartment;365243;1;0;0;0;1;0
+N;N;0;Working;Higher education;Married;House / apartment;-958;1;0;0;0;2;0
+N;N;0;Pensioner;Secondary / secondary special;Widow;Municipal apartment;365243;1;0;1;0;1;0
+Y;Y;1;Working;Secondary / secondary special;Married;House / apartment;-3095;1;0;0;0;3;0
+N;N;0;Working;Secondary / secondary special;Married;With parents;-2827;1;1;1;0;2;0
+N;Y;3;Working;Secondary / secondary special;Married;House / apartment;-3693;1;0;0;0;5;0
+N;Y;0;Working;Higher education;Married;House / apartment;-2262;1;0;0;0;2;0
+Y;Y;0;Working;Secondary / secondary special;Single / not married;House / apartment;-195;1;1;0;0;1;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-157;1;0;0;0;3;0
+Y;Y;0;Pensioner;Higher education;Married;House / apartment;365243;1;0;1;0;2;0
+N;N;1;Working;Secondary / secondary special;Married;House / apartment;-109;1;0;0;0;3;0
+Y;Y;3;Working;Secondary / secondary special;Married;Municipal apartment;-5862;1;0;1;0;5;0
+Y;Y;0;Commercial associate;Higher education;Single / not married;With parents;-2152;1;0;1;0;1;0
+N;Y;1;Commercial associate;Secondary / secondary special;Civil marriage;House / apartment;-2105;1;0;0;0;3;0
+N;N;0;Pensioner;Secondary / secondary special;Separated;House / apartment;365243;1;0;0;0;1;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-1200;1;1;1;0;2;0
+Y;Y;2;Commercial associate;Higher education;Married;House / apartment;-1891;1;0;0;0;4;0
+Y;Y;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-3476;1;0;0;0;2;0
+N;N;0;Working;Secondary / secondary special;Married;House / apartment;-4662;1;0;1;0;2;0
+Y;N;0;Commercial associate;Higher education;Married;House / apartment;-657;1;0;0;0;2;0
+N;N;0;Commercial associate;Secondary / secondary special;Married;House / apartment;-1436;1;0;0;0;2;0
+Y;N;0;Pensioner;Higher education;Married;House / apartment;-5521;1;1;1;0;2;0
+N;Y;0;Working;Higher education;Married;House / apartment;-686;1;1;1;0;2;0
+Y;Y;1;Working;Higher education;Married;House / apartment;-2924;1;0;0;0;3;0
+N;Y;2;Working;Higher education;Married;House / apartment;-1648;1;1;1;0;4;0
+Y;N;1;State servant;Secondary / secondary special;Married;House / apartment;-3536;1;0;1;0;3;0
+N;Y;0;Commercial associate;Higher education;Married;House / apartment;-2182;1;0;0;0;2;0
+N;N;0;Commercial associate;Incomplete higher;Single / not married;House / apartment;-1209;1;0;0;0;1;0
+Y;N;0;Working;Secondary / secondary special;Civil marriage;House / apartment;-645;1;1;1;0;2;0
+Y;Y;0;Working;Higher education;Married;House / apartment;-2859;1;0;0;0;2;0
